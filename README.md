@@ -77,21 +77,7 @@ The GRU model outperformed the LSTM model and other models in fake news detectio
 
 In summary, the GRU Model stands out as the most effective model for fake news detection on the Liar Dataset, thanks to its ability to capture sequential patterns efficiently and mitigate the vanishing gradient problem.
 
-## Usage
-
-Provide instructions on how to use the code, including any necessary installations, preprocessing steps, and model training.
-
-## License
-
-This project is licensed under the XYZ License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Mention any individuals, organizations, or resources you would like to acknowledge.
-
 ## References
 
-- Liar Dataset: [Link to Dataset](https://example-link.com)
-- Transformer Models: [Hugging Face Transformers](https://huggingface.co/transformers/)
-
-Feel free to adapt this template to include your specific dataset and results while maintaining the structured format. The README provides a clear structure for summarizing your work.
+- Liar Dataset
+- Transformer Models
